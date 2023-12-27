@@ -3,8 +3,3 @@ languageCode = 'en-us'
 title = 'News English'
 theme = 'ananke'
 publishDir="docs"
-[markup]
-defaultMarkdownHandler = "goldmark"
-[markup.goldmark]
-[markup.goldmark.renderer]
-unsafe = true

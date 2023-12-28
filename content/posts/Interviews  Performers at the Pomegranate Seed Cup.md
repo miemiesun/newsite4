@@ -1,25 +1,25 @@
 ---
-title: 'Interviews | Performers at the Pomegranate Seed Cup'
+title: 'Interviews | Performers in the "ShiLiuZi" Dance Championship'
 date: '2023-12-21T22:26:20+08:00'
 draft: false
 featured_image: '/images/5.jpg'
 ---
 
-Dance is a language hidden in the soul, and dance is like realizing a dream with one's posture. In the Award Ceremony of the 2nd "Pomegranate Seed Cup" Campus Dance Competition and Outstanding Dance Works Exhibition of Northwest University for Nationalities, every performer showed their charms on the stage with different dance styles. In this issue, we interviewed several performers, let's listen to some of their experiences and stories in the dance in this exhibition!
+Dance is a language hidden in the soul, and dance is like realizing a dream with one's posture. In the Award Ceremony of the 2nd "ShiLiuZi" Campus Dance Competition and Outstanding Dance Works Exhibition of Northwest Minzu University, every performer showed their charms on the stage with different dance styles. In this issue, we interviewed several performers, let's listen to some of their experiences and stories in the dance in this exhibition!
 
 ## Performer Profile
 
-Hu Bo: School of Dance, Northwest University for Nationalities
+Hu Bo: School of Dance, Northwest Minzu University
 
-Ding Qinian: School of Dance, Northwest University for Nationalities
+Ding Qinian: School of Dance, Northwest Minzu University
 
-Song Xiangrong: School of Dance, Northwest University for Nationalities
+Song Xiangrong: School of Dance, Northwest Minzu University
 
-Xiang Yao: Northwest University for Nationalities, School of Management (Aviation Service Art and Management)
+Xiang Yao: Northwest Minzu University, School of Management (Aviation Service Art and Management)
 
-Wang Junjie: Northwest University for Nationalities, School of Dance
+Wang Junjie: Northwest Minzu University, School of Dance
 
-Pu Wenjing: Northwest University for Nationalities, School of Journalism and Communication
+Pu Wenjing: Northwest Minzu University, School of Journalism and Communication
 
 ## What was your original intention to participate in this competition?
 

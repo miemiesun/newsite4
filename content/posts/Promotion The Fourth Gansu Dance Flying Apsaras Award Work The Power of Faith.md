@@ -20,4 +20,4 @@ The Power of Faith" is inspired by the deeds of Chen Hongjun, a representative o
 
 Choreographer: Zhao Yangyi, Liu Weiyuan
 
-Performed by: School of Dance, Northwest University for Nationalities
+Performed by: School of Dance, Northwest Minzu University

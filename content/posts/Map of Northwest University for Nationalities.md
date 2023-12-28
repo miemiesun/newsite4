@@ -1,11 +1,11 @@
 ---
-title: 'Map of Northwest University for Nationalities'
+title: 'Map of Northwest Minzu University'
 date: '2023-12-21T22:26:20+08:00'
 draft: false
 featured_image: '/images/20.jpg'
 ---
 
-Northwest University for Nationalities Main Campus
+Northwest Minzu University Main Campus
 <div>
      <iframe width="500" height="400" frameborder="0" src="https://cn.bing.com/maps/embed?h=400&w=500&cp=q06v96snhrkd&lvl=16&typ=d&sty=r&src=SHELL&FORM=MBEDV8" scrolling="no">
      </iframe>
@@ -15,7 +15,7 @@ Northwest University for Nationalities Main Campus
     </div>
 </div>
 
-Northwest University for Nationalities, Yuchong Campus
+Northwest Minzu University, Yuchong Campus
 <div>
      <iframe width="500" height="400" frameborder="0" src="https://cn.bing.com/maps/embed?h=400&w=500&cp=pzpb84spcdxn&lvl=16&typ=d&sty=r&src=SHELL&FORM=MBEDV8" scrolling="no">
      </iframe>
